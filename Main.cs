@@ -17,6 +17,10 @@ namespace frost.Core
     public class Main : BaseUnityPlugin
     {
 
+        /*
+            Don't mind this shitty ass code. I'm still trying to learn.
+        */
+
         public static bool HidingCode;
         public static bool Config;
         public static bool Mainshit = true;
